@@ -20,5 +20,5 @@
           
 # 🔗 Links
 <div style= "display: inline_block">
-<a href="https://www.linkedin.com/in/felipe-ribeiro-rodrigues-dos-santos-852b8222a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a target="_blank" href="https://www.linkedin.com/in/felipe-ribeiro-rodrigues-dos-santos-852b8222a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
