@@ -6,8 +6,6 @@
 </div><br>
 
 <div align="center">
-
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=feliperrs&hide_title=true&show_icons=true&theme=merko&card_width=320&hide_border=true" />
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feliperrs&layout=compact&theme=merko&card_width=320&hide_border=true" />
 </div>
 
